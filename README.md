@@ -17,7 +17,7 @@ A empresa trouxe **inovação** ao criar uma plataforma para unir empresas a pro
 ## Jornada
 
 ### Dia 1 - /02/03/2024/
-Comecei e terminei o curso inicial sobre como funciona a plataforma da DIO.
+Comecei e terminei o curso inicial sobre como funciona a plataforma da DIO.  
 💻 O que aprendi hoje:
 - Criei um documento de anotação no Samsung Notes, deixando-o organizado em tópicos.
 - Defini minha rotina de estudos com meta de 1h:30m por dia e deixando um dia da semana para descansar.
@@ -25,7 +25,7 @@ Comecei e terminei o curso inicial sobre como funciona a plataforma da DIO.
 
 ### Dia 2 - /03/03/2024/
 Iniciei o curso Versionamento de código com git e github. Eu já tenho conhecimento sobre Git, mas usando as funcionalidades no VSCode.  
-No curso a instrutora Elidiana ensina as funcionalidades do Git pelo GitBash, que na minha visão torna mais fácil o uso do Git.
+No curso a instrutora Elidiana ensina as funcionalidades do Git pelo GitBash, que na minha visão torna mais fácil o uso do Git.  
 💻 O que aprendi hoje:
 - Aprendi mais sobre como funciona o Git
 - Aprendi sobre a linguagem markdown
@@ -33,7 +33,7 @@ No curso a instrutora Elidiana ensina as funcionalidades do Git pelo GitBash, qu
 - Aprendi como gerar repositórios no GitHub e clona-los para a máquina.
 
 ### Dia 3 - /04/03/2024/
-Continuei o curso de versionamento e conclui ele
+Continuei o curso de versionamento e conclui ele  
 💻 O que aprendi hoje:
 - Aprendi a adicionar, deletar e alterar atualizações a área de trabalho do Git com "git add"
 - Aprendi a fazer, excluir e alterar commits com "git commit -m'mensagem'"
@@ -46,7 +46,7 @@ Continuei o curso de versionamento e conclui ele
 
 ### Dia 4 - /05/03/2024/
 Iniciei e concluí o curso sobre como funcionam os desafios no bootcamp. Foi bastante esclarecedor quanto a como lidar com a interface dos desafios.  
-Nesse dia, também comecei a documentar minha caminhada pelo bootcamp atráves desse repositório na minha conta do GitHub.
+Nesse dia, também comecei a documentar minha caminhada pelo bootcamp atráves desse repositório na minha conta do GitHub.  
 💻 O que aprendi hoje:
 - Aprendi como funciona a estrutura dos desafios Lab
 
