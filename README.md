@@ -60,7 +60,7 @@ Após encerrar o Lab, eu iniciei e conclui o primeiro módulo sobre Python, onde
 - História da criação e evolução do Python
 - Funções interessantes no VSCode
 
-**LAB CONCLUÍDO**
+**LAB CONCLUÍDO**  
 **CERTIFICADO CONQUISTADO**
 
 ### Dia 6 - /07/03/2024/
