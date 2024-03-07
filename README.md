@@ -53,7 +53,7 @@ Nesse dia, também comecei a documentar minha caminhada pelo bootcamp atráves d
 ### Dia 5 - /06/03/2024/
 Hoje completei meu primeiro Lab, que foi fazer um pull request em um repositório Open source, mas antes disso, precisei seguir o processo de fazer fork do repositório original, clonar ele para um diretório local e adicionar um arquivo markdown contando um pouco sobre mim e minhas habilidades.
 OBS: O que mais demorou foi desenvolver o design do markdown kkkkk
-Após encerrar o Lab, eu iniciei e conclui o primeiro módulo sobre Python, onde apesar de básico me ajudou a reforçar as bases da linguagem. E depois dos estudos fui descansar, até porque, ninguém é de ferro kkkkk
+Após encerrar o Lab, eu iniciei e conclui o primeiro módulo sobre Python, onde apesar de básico me ajudou a reforçar as bases da linguagem. E depois dos estudos fui descansar, até porque, ninguém é de ferro kkkkk  
 💻 O que aprendi hoje:
 - Experiência prática com repositórios no GitHub
 - Lidar com problemas de merge
@@ -65,7 +65,7 @@ Após encerrar o Lab, eu iniciei e conclui o primeiro módulo sobre Python, onde
 
 ### Dia 6 - /07/03/2024/
 Participei da primeira live mentoria no bootcamp, a live foi focada em ETL (Extract, Transform and Load) e teve um nível de conteúdo fenômenal.
-O instrutor Felipe explicou como funciona a arquitetura de um projeto real de análise de dados e depois fez um live code para ensinar a montar a estrutura que ia transformar os dados raw e carregar como dados ready.
+O instrutor Felipe explicou como funciona a arquitetura de um projeto real de análise de dados e depois fez um live code para ensinar a montar a estrutura que ia transformar os dados raw e carregar como dados ready.  
 💻 O que aprendi hoje:
 - Boas práticas de um profissional de dados (confiabilidade e rastreabilidade dos dados)
 - Arquitetura de um projeto de análise de dados
