@@ -71,3 +71,14 @@ O instrutor Felipe explicou como funciona a arquitetura de um projeto real de an
 - Arquitetura de um projeto de análise de dados
 - Termos técnicos usados no mercado dos dados (dado raw, dado ready, venv e etc)
 - Visão geral de como um profissional age no dia a dia
+
+### Dia 7 - /08/03/2024/
+Estudei com mais atenção a live mentoria de ontem.  
+Desenvolvi no meu próprio diretório o projeto proposto durante o live code. Tive alguns obstáculos, mas nada que um Copilot + StackOverflow não resolvam kkkkk  
+💻 O que aprendi hoje:  
+- Arquitetura para projeto de análise de dados na prática 
+- Criar e iniciar uma venv (ambiente virtual)
+- Usar biblioteca "os" do Python
+- Usar biblioteca "glob" do Python
+- Mais experiência em resolver problemas em códigos
+- Analisar data ready e desenvolver insights
