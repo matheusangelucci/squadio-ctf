@@ -95,3 +95,19 @@ Apesar de já ter conhecimento prévio da linguagem Python, é interessante estu
 - Funções de entrada e saída em Python
 
 ✅**CERTIFICADO CONQUISTADO**
+
+### Dia 9 - /11/03/2024/
+Segunda, o dia mais foda para a disciplina kkkkk  
+Sem motivação, a disciplina toma frente e sigo os estudos no bootcamp da DIO. 🙏  
+Hoje iniciei o módulo de operadores em Python, onde já tenho conhecimento, mas é interessante reforçar as bases da linguagem. Vale citar que os operadores são muito úteis para desenvolver projetos de automação na hora de manipular uma grande massa de dados.  
+Após concluir o módulo, fiz alguns exercícios no VSCode e por hoje foi isso.
+ 
+💻 **O que aprendi hoje:**
+- Operadores aritméticos (+, - e etc.)
+- Operadores de comparação (>, < e etc.)
+- Operadores de atribuição (=, += e etc.)
+- Operadores lógicos (or, and e etc.)
+- Operadores de identidade (is e is not.)
+- Operadores de associação (in e not in.)
+
+✅**CERTIFICADO CONQUISTADO**
