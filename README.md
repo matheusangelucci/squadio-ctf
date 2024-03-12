@@ -111,3 +111,18 @@ Após concluir o módulo, fiz alguns exercícios no VSCode e por hoje foi isso.
 - Operadores de associação (in e not in.)
 
 ✅**CERTIFICADO CONQUISTADO**
+
+### Dia 10 - /12/03/2024/
+Boa noite, rede! Foco total no bootcamp 🙏  
+Hoje iniciei o módulo de estrutura condicional e de repetição.
+Com a estrutura condicional tenho um bom conhecimento, mas com a de repetição eu tinha dificuldade de entender o funcionamento.
+Digo tinha, pois agora já consegui compreender, graças a uma explicação clara que é ponto de elogio na DIO.  
+Conclui o módulo, fiz os exercícios focando principalmente na estrutura de repetição e assim terminei meus estudos por hoje 🙏
+ 
+💻 **O que aprendi hoje:**
+- Indentação e blocos.
+- Estrutura condicional (if, else e elif). 
+- If ternário (“Sim” if 1>2 else “Não”).
+- Estrutura de repetição (for e while).
+
+✅**CERTIFICADO CONQUISTADO**
