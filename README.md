@@ -126,3 +126,33 @@ Conclui o módulo, fiz os exercícios focando principalmente na estrutura de rep
 - Estrutura de repetição (for e while).
 
 ✅**CERTIFICADO CONQUISTADO**
+
+### Dia 11 - /13/03/2024/
+Mais um dia movido a disciplina (e café). 💪  
+Sigo meus estudos no bootcamp da DIO.
+Iniciei o módulo de manipulação de strings, um conteúdo fácil de entender, mas como hoje eu não estava muito bem para focar, precisei da ajuda do café kkkkk.
+Aprendi muitas coisas novas com as aulas e exercícios, então fico feliz por ver que estou evoluindo.
+
+💻 **O que aprendi hoje:**
+- Converter string em maiúsculo, minúsculo e título (upper, lower e title).
+- Eliminar espaços em branco de strings (strip, lstrip e rstrip).
+- Junção e centralização de strings (center e join).
+- Interpolação de variáveis (%, format e f string).
+- Fatiamento de strings.
+- String de múltiplas linhas/tripla.
+
+✅**CERTIFICADO CONQUISTADO**
+
+### Dia 12 - /14/03/2024/
+Que dia trabalhoso e enriquecedor... 😤  
+Participei da segunda live mentoria no bootcamp da DIO.
+A live foi focada em Data Types e Generative AI, todas as informações expandiram meu olhar no mundo de dados, gerando ótimos insights.  
+O Felipe Silva Aguiar explicou cada Data Type e mesclou com ensinamentos de Excel, boas práticas e no final teve a criação de um Data Mapping para o Copilot (Generative AI) criar a base de dados.
+Assim que terminei a live, já fui botando em prática e gerei minha database no contexto de fisiculturismo. (Precisei pedir para o Copilot incluir o Cbum 😰 ). Tive alguns erros na criação, mas acredito que com o tempo isso vai melhorando.
+ 
+💻 **O que aprendi hoje**:
+- Data Types (Tipos de dados): Textual, Quantitativo, Categórico e etc;
+- Boas práticas para um profissional de dados;
+- Funções úteis do Excel;
+- Elaborar um Data Mapping (Mapeamento de dados);
+- Higienizar e tratar dados.
