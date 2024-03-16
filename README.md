@@ -156,3 +156,36 @@ Assim que terminei a live, já fui botando em prática e gerei minha database no
 - Funções úteis do Excel;
 - Elaborar um Data Mapping (Mapeamento de dados);
 - Higienizar e tratar dados.
+
+### Dia 13 - /15/03/2024/
+Sextou com estudos!  
+Na disciplina sigo os estudos no bootcamp da DIO. 🙏  
+Hoje iniciei o módulo de listas e tuplas em Python, já tenho conhecimento e utilizo esses métodos, porém aprendi novas funções.
+A diferença entre lista e tupla, é que uma é mutável e a outra imutável. São úteis em diversos usos da linguagem Python, pois podem armazenar inúmeros objetos e assim, gerar programas para diferentes finalidades.
+Após concluir o módulo, fiz alguns exercícios no VSCode e por hoje foi isso.
+ 
+💻 **O que aprendi hoje:**
+- Métodos da classe list()
+- Métodos da classe tuple()
+- O que são e pra que servem as listas
+- O que são e pra que servem as tuplas
+
+✅**CERTIFICADO CONQUISTADO**
+
+### Dia 14 - /16/03/2024/
+Bom final de tarde, rede! Foco total no bootcamp da DIO 🙏  
+Hoje iniciei dois módulos (sábado daquele jeito), um de conjuntos e outro sobre dicionários em Python.
+Foram conceitos novos em Python, então aprendi muitas coisas novas sobre o uso e funcionamento desses conceitos. Conclui os módulos, fiz os exercícios focando em funções úteis e assim terminei meus estudos por hoje 🙏
+ 
+🎯 Conjuntos: Uma sequência de objetos sem duplicidade, é definida por {} e útil para aplicações que envolvem conjuntos matemáticos.  
+🎯 Dicionários: Uma sequência de chaves com valores (chave:valor), útil para armazenar configurações ou representar dados estruturados, vale dizer que a chave é imutável e o valor é mutável.
+ 
+💻 **O que aprendi hoje:**
+- Conceito de conjuntos em Python.
+- Métodos dos conjuntos em Python (union(), intersection() e etc.).
+- Conceito de dicionários em Python.
+- Como percorrer dicionários com for.
+- Métodos dos dicionários em Python (fromkeys(), items() e etc.)
+
+✅**CERTIFICADO CONQUISTADO**  
+✅**CERTIFICADO CONQUISTADO**
