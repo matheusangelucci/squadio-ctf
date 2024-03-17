@@ -189,3 +189,18 @@ Foram conceitos novos em Python, então aprendi muitas coisas novas sobre o uso 
 
 ✅**CERTIFICADO CONQUISTADO**  
 ✅**CERTIFICADO CONQUISTADO**
+
+### Dia 15 - /17/03/2024/
+Domingo com estudos na DIO! 🙏  
+Hoje iniciei e conclui o módulo de funções em Python e posso dizer que esse foi o mais desafiador até o momento.  
+O entendimento das funções é mais complexo que outras funcionalidades, mas é igual andar de bicicleta, uma vez que aprendeu parece a coisa mais simples do mundo kkkkkk
+Enfim, hoje foi um dia onde aprendi muitas coisas, tanto no bootcamp, quanto na faculdade, onde fiz meus exercícios (também de Python) preparatórios para as provas que estão chegando.
+
+💻 **O que aprendi hoje:**
+- Funcionamento das funções.
+- Criar funções de diversas maneiras.
+- Formas de chamar uma função.
+- Parâmetros especiais para uma função (/ e *).
+- Entender a relação entre escopo local e global.
+
+✅**CERTIFICADO CONQUISTADO**
