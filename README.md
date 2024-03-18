@@ -204,3 +204,18 @@ Enfim, hoje foi um dia onde aprendi muitas coisas, tanto no bootcamp, quanto na 
 - Entender a relação entre escopo local e global.
 
 ✅**CERTIFICADO CONQUISTADO**
+
+### Dia 16 - /18/03/2024/
+Começando a semana com desafios (literalmente)! 🙏  
+Hoje chegou o tão esperado desafio que finaliza o módulo de Python para Ciência de dados.  
+Foi um desafio de código, com três propostas para resolver. Nas três, teve a presença de funções e métodos que não foram apresentados durante todos os cursos do módulo (DIO jogando os filhotes do ninho kkkkk), o que me forçou a consultar fóruns e IA para entender esses novos conceitos.  
+Ao concluir o desafio, fiquei feliz com meu desempenho (satisfeito não), pois consegui desenrolar todos os problemas que surgiram.
+
+💻 **O que aprendi hoje:**
+- Mais experiência em resolução de problemas
+- Percorrer objetos não iteráveis com laço For
+- Criar uma lista com objetos recebidos em um input()
+- Função map(func, ...)
+- Método .split()
+
+✅**CERTIFICADO CONQUISTADO**
